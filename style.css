@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+}
+.sec-top{
+    margin: 80px 100px 20px 200px;
+}
+.top-sec{
+    display: flex;
+    
+}
+.missionpad{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    line-height: 30px;
+    padding-left: 15px;
+    border-left: 5px solid tomato;
+    border-color: tomato;
+}
+.orange{
+    color: rgb(236, 157, 11);
+}
+.web-content{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.btn1{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.btn-tx{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(241, 69, 6);
+    padding: 15px 65px;
+    width: 72px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.mission-pk{
+    margin-top: -30px;
+    margin-left: 200px;
+}
+.dreams-sec{
+    margin: 80px 100px 20px 200px;
+}
+.dreams-menu{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.dreams-menus{
+    display: flex;
+    margin-left: 7%;
+}
+.drems3{
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px 25px 30px 30px;
+    border-radius: 20px;
+    left: 30px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+.menu-1{
+    background-color: rgb(233, 250, 248);
+}
+.menu-2{
+    background-color: rgb(243, 231, 231);
+}
+.menu-3{
+    background-color: rgb(250, 234, 205);
+}
+.menu-content{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
