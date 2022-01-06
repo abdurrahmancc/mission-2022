@@ -2,11 +2,10 @@ body{
     margin: 0%;
 }
 .sec-top{
-    margin: 80px 100px 20px 200px;
+    margin: 80px 100px 20px 300px;
 }
 .top-sec{
     display: flex;
-    
 }
 .missionpad{
     font-family: 'Poppins', sans-serif;
@@ -17,7 +16,7 @@ body{
     border-color: tomato;
 }
 .orange{
-    color: rgb(236, 157, 11);
+    color: #ffad5a;
 }
 .web-content{
     font-size: 20px;
@@ -50,12 +49,12 @@ body{
 }
 .dreams-menus{
     display: flex;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 .drems3{
     margin-left: 1%;
     margin-right: 1%;
-    padding: 20px 25px 30px 30px;
+    padding: 20px 40px 30px 40px;
     border-radius: 20px;
     left: 30px;
     font-size: 25px;
@@ -73,4 +72,98 @@ body{
 .menu-content{
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
+}
+.sce-life-style{
+    display: flex;
+    margin: 100px 200px 100px 120px;
+}
+.sec-develop-life{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 180px;
+}
+.develop-colum{
+    padding-left: 100px;
+}
+.develop-content{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.develop-colum h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.sec-grow{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 190px;
+    margin-right: 100px;
+    padding-top: 30px;
+}   
+.sce-grow-col{
+    display: flex;
+    margin: 100px 200px 100px 110px;
+}
+.grow-content{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.grow-title h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.grow-title{
+    width: 70%;
+}
+.project-img{
+    width: 30%;
+    margin-left: 100px;
+    padding-left: 30px;
+}
+.my-dremm h4{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.footer p{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+}
+.ft-color-red{
+    color: rgb(248, 97, 70);
+}
+.ft-doc{
+    color: white;
+    text-align: center;
+    display:block;
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.dream-colum{
+    padding-left: 100px;
+}
+.dream-colum span{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    line-height: 60px;
+}
+.hubblu{
+    color: hsl(36, 94%, 50%);
+}
+.sec-dream{
+    margin-left: 20px;
+}
+.dream-col{
+    margin-left: 100px;
 }
